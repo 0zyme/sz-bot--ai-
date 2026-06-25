@@ -50,6 +50,8 @@ pip install -r requirements.txt
 
 确保《超自然行动组》游戏窗口已打开，窗口标题包含 `Preternatural`。
 
+注意！！请将游戏分辨率设置为1280x720！！！！
+
 ### 5. 运行
 
 ```bash
